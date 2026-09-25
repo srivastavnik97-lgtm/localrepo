@@ -1,1 +1,1 @@
- This is my local repo and first projecct.
+ This is my local repo and first project.
